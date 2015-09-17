@@ -5,7 +5,7 @@ WARNING: USE THIS TOOL AT YOUR OWN RISK
 
 原理:http://drops.wooyun.org/papers/6077
 官方：https://bugs.php.net/bug.php?id=69364
-
+检测：https://portal.nsfocus.com/vulnerability/list/
 Usage: python xxx.py -t "http://TARGET_URL" -x "THREAD" -r "REQUEST_LENGTH"
 
 Example: python xxx.py -t "http://your.site.using.php/" -x "100" -r "350000"
